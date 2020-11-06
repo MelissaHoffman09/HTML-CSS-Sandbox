@@ -1,0 +1,24 @@
+body {padding: 50px;
+}
+.first {
+    color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 28px;
+}
+.second > h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.second > img {
+    float: left; padding-right: 30px; padding-bottom: 20px;
+}
+.third {
+    text-decoration: none;
+}
+#fourth {
+    text-transform: uppercase;
+}
+a:hover {
+    text-decoration: underline;
+}
