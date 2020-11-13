@@ -1,0 +1,83 @@
+body {
+    margin-top: 0%;
+    padding: 0%;
+}
+h1 {
+    color: palevioletred;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    padding-top: 5%;
+}
+h2 {
+    color: palevioletred;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h6 {
+    color: slategrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.nav {
+    position: fixed;
+    width: 100%;
+    margin: 10px;
+    background-color: lightpink;
+}
+.nav > span {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contact {
+    position: relative;
+    left: 1000px;
+} 
+.recipes {
+    position: relative;
+    left: 750px;
+}
+.shop {
+    position: relative;
+    left: 500px;
+}
+.home {
+    position: relative;
+    left: 250px;
+}
+.title {
+    font-size: 35px;
+}
+.mac {
+    border: 3px solid gray;
+    padding: 20px;
+    max-width: 1200px;
+    height: 350px;
+    margin-left: 20%;
+    margin-top: 1%;
+    display: inline-flex;
+}
+.mac-img {
+    display: inline-block;
+    vertical-align: top;
+    width: 450px;
+    height: 350px;
+    margin-left: 3%;
+    object-fit: contain;
+}
+.mac-text {
+    display: inline-block;
+    width: 450px;
+    height: 350px;
+    padding: 5%;
+}
+footer {
+    padding: 1%;
+    color: palevioletred;
+    border-top: 2px dotted palevioletred;
+    margin-top: 1%;
+}
+button {
+    color: palevioletred;
+}
